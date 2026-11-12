@@ -1,4 +1,4 @@
-﻿GridForge 1.0.2 - third-party notices
+﻿GridForge 1.0.3 - third-party notices
 ==============================================================================
 
 GridForge is (C) 2026 PrototypesEnd. It is built with the open-source
