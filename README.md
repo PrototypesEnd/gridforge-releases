@@ -7,7 +7,7 @@ plus an optional local AI assistant that runs on your own PC.
 ## Download
 
 **[Download the latest GridForge installer](https://github.com/PrototypesEnd/gridforge-releases/releases/latest)**:
-on that page, click **GridForge-Setup-1.0.3.exe** under **Assets**.
+on that page, click **GridForge-Setup-1.0.4.exe** under **Assets**.
 
 1. Open the downloaded file. The installer isn't code-signed, so Windows SmartScreen says
    "Windows protected your PC": click **More info**, then **Run anyway**.
@@ -18,7 +18,7 @@ on that page, click **GridForge-Setup-1.0.3.exe** under **Assets**.
    **Open with** > **GridForge**.
 
 Each release lists the installer's SHA-256, so you can check your download with
-`certutil -hashfile GridForge-Setup-1.0.3.exe SHA256`.
+`certutil -hashfile GridForge-Setup-1.0.4.exe SHA256`.
 
 From 1.0.1 on, GridForge checks this page for new versions and installs them itself
 (Help > Check for Updates; the daily check can be turned off in File > Account).
@@ -26,7 +26,7 @@ From 1.0.1 on, GridForge checks this page for new versions and installs them its
 ## Requirements
 
 - Windows 10 or 11, 64-bit.
-- About 170 MB of disk space.
+- About 190 MB of disk space.
 - The optional AI assistant needs a one-time model download, started from GridForge:
   4.6 GB (Standard) or 19 GB (Large, for graphics cards with 20 GB or more).
   Nothing is downloaded unless you choose it.
